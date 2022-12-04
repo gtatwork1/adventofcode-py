@@ -1,5 +1,5 @@
 # Open the input file
-with open("input2.txt") as f:
+with open("in02.txt") as f:
     # Read the lines from the file
     lines = f.readlines()
 
